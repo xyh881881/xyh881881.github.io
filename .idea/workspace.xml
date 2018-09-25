@@ -55,6 +55,7 @@
       <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2017-3-07-文件目录树状(tree)显示.md" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2018-01-04-柔术最大的谎言「译」.md" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2018-05-05-Xcode命令行工具管理.md" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CNAME" afterPath="$PROJECT_DIR$/CNAME" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -103,11 +104,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="140">
-              <caret line="88" column="26" lean-forward="false" selection-start-line="88" selection-start-column="26" selection-end-line="88" selection-end-column="26" />
+              <caret line="88" column="42" lean-forward="false" selection-start-line="88" selection-start-column="42" selection-end-line="88" selection-end-column="42" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CNAME" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CNAME">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -161,6 +172,7 @@
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/_site/tags/index.html" />
         <option value="$PROJECT_DIR$/_config.yml" />
+        <option value="$PROJECT_DIR$/CNAME" />
       </list>
     </option>
   </component>
@@ -320,12 +332,12 @@
       <option name="presentableId" value="Default" />
       <updated>1537869079645</updated>
       <workItem from="1537869081818" duration="525000" />
-      <workItem from="1537879091003" duration="3531000" />
+      <workItem from="1537879091003" duration="3651000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4056000" />
+    <option name="totallyTimeSpent" value="4176000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="56" y="23" width="1224" height="777" extended-state="6" />
@@ -526,7 +538,15 @@
     <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="140">
-          <caret line="88" column="26" lean-forward="false" selection-start-line="88" selection-start-column="26" selection-end-line="88" selection-end-column="26" />
+          <caret line="88" column="42" lean-forward="false" selection-start-line="88" selection-start-column="42" selection-end-line="88" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CNAME">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
