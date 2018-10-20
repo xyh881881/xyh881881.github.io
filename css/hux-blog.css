@@ -1089,3 +1089,7 @@ img::-moz-selection {
 .page-fullscreen footer .copyright a:hover {
   color: #ddd;
 }
+pre{
+  background-color: #222222;
+  color:#fff;
+}
