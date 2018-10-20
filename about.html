@@ -23,6 +23,30 @@ header-img: "img/post-bg-rwd.jpg"
     知识领域前端开发，心理学，运营，管理，情感，销售，创业....我的微信号xyh881881,24小时在线欢迎小伙伴来信探讨。<br/>
     爱coding,爱生活</p>
 
+    var $zh = document.querySelector(".zh");
+    var $en = document.querySelector(".en");
+    var $select = document.querySelector("select");
+
+    // bind hashchange event
+    window.addEventListener('hashchange', _render);
+
+    // handle render
+    function _render(){
+    var _hash = window.location.hash;
+    // en
+    if(_hash == "#en"){
+    $select.selectedIndex = 1;
+    $en.style.display = "block";
+    $zh.style.display = "none";
+    // zh by default
+    }else{
+    // not trigger onChange, otherwise cause a loop call.
+    $select.selectedIndex = 0;
+    $zh.style.display = "block";
+    $en.style.display = "none";
+    }
+    }
+
     <p></p>
     
     <!--<h5>Talks</h5>-->
